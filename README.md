@@ -1,7 +1,7 @@
 ## CV candidate rating module(SBERT)
 [Code](./FYP_sbert.py)
 
-## Candidate Result (for now)
+## Candidate Ranking Result (for now)
 [Excel file(similarity Scores)](.shortlisted_resumes.xlsx)
 
 ## Resumes (17)
